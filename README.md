@@ -1,2 +1,2 @@
 # Book_Mark_App
-Bookmark application
+Bookmark application to store website addresses.
